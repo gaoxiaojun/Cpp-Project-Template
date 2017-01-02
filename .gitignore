@@ -38,3 +38,9 @@ docs/
 *.exe
 *.out
 *.app
+
+#clion
+.idea
+cmake-build-debug
+cmake-build-release
+lib/

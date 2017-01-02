@@ -1,5 +1,5 @@
 /****************************************************************************
- * Copyright (C) 2014, <Copyright Holder>                                   *
+ * Copyright (C) 2017, Xiaojun Gao                                   *
  * All rights reserved                                                      *
  *                                                                          *
  * For the licensing terms see LICENSE file inside the root directory.      *
